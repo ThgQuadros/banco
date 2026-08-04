@@ -1,0 +1,6 @@
+DELETE FROM comivenda;
+DELETE FROM comvenda;
+DELETE FROM comprodu;
+DELETE FROM comforne;
+DELETE FROM comvende;
+DELETE FROM comclien;
